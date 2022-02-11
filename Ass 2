@@ -12,7 +12,7 @@ if s1<35 and s2<35 and s3<35 and s4<35 and s5<35 and s6<35:
     print("fail")
 else:
     if avg>=91:
-        print('o-grade')
+        print('O-grade')
     elif avg>=81:
         print('A-grade')
     elif avg>=71:
@@ -26,7 +26,7 @@ else:
 
 
 OUTPUT:
-output
+
         sno 27
         sname bhavana
         s1 marks 54
@@ -35,4 +35,4 @@ output
         s4 marks 60
         s5 marks 59
         s6 marks 49
-        O-grade
+        o-grade
